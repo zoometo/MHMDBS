@@ -228,10 +228,14 @@ header:hover{
     display: flex;
     justify-content: space-between;
     transition: 0.7s;
+}
 
 .footer_title{
     font-size: 1.3em;
     font-weight: 600;
+
+
+}
 .scroll-up{
     position:fixed;
     bottom: 20px;
@@ -250,7 +254,7 @@ transition: 0.7s;
     transform: scale(1.1);
 }
 
-}
+
 @media (max-width:1023px) 
     {
         .header{
